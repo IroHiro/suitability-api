@@ -13,4 +13,4 @@ COPY . .
 EXPOSE 10000
 
 # Run the application
-CMD ["python", "suitability_api.py"]
+CMD ["gunicorn", "--bind", "0.0.0.0:10000", "suitability_api:app"]
