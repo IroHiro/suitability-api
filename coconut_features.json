@@ -1,0 +1,20 @@
+[
+    "ndvi",
+    "evi",
+    "temperature",
+    "rainfall_total",
+    "humidity",
+    "gdd",
+    "veg_health",
+    "soil_fertility",
+    "ndvi_evi_product",
+    "soil_veg",
+    "temp_rain",
+    "n_score",
+    "p_score",
+    "k_score",
+    "ndvi_squared",
+    "evi_squared",
+    "ndvi_evi_ratio",
+    "water_use_efficiency"
+]
